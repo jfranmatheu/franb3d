@@ -30,6 +30,8 @@ Simulation and physics utilities applied to Blender
 
 <a href="https://github.com/jfranmatheu/MolecuLab" target="_blank"><img src="repo-cards/MolecuLab-card.svg" alt="MolecuLab" style="margin: 10px"></a>
 
+<a href="https://github.com/jfranmatheu/Simu-Cloth" target="_blank"><img src="repo-cards/Simu-Cloth-card.svg" alt="Simu-Cloth" style="margin: 10px"></a>
+
 ---
 
 ### Standalone Applications
